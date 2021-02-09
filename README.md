@@ -13,8 +13,8 @@ Familiarizing myself with different aspects of GitHub.
 
 ## **Files Used**
 
-No additional files were used.
+*No additional files were used.*
 
 ## **Versioning**
 
-No versioning was implemented.
+*No versioning was implemented.*
